@@ -1,9 +1,9 @@
-Feature: Campaigns Page Validation
+Feature: Campaigns Page Validation 
 
 Background: 
-	Given User is logged in and in CRM Home page
-	 
-@RegressionTest
+	Given User is logged in and in CRM Home page 
+	
+@RegressionTest 
 Scenario Outline: Create new email content template 
 	When User navigates to campaings page 
 	And User clicks template 
@@ -18,4 +18,5 @@ Scenario Outline: Create new email content template
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|	
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|			
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|			
- 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|	
+		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|	
+		|Stash		| Stash 		| Stash example 			|	
