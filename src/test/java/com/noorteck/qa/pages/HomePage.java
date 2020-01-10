@@ -22,5 +22,6 @@ public class HomePage extends BaseClass {
 	public String getHomePageTitle() {
 		return getTitle();
 	}
+	// this is a test comment
 
 }
