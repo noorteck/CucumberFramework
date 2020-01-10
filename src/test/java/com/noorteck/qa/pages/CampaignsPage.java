@@ -10,6 +10,7 @@ import com.noorteck.qa.utilities.Common;
 
 public class CampaignsPage extends BaseClass {
 
+	//This is random comment
 	@FindBy(xpath = "//span[contains(text(),'Campaigns')]")
 	WebElement campaingsLink;
 
