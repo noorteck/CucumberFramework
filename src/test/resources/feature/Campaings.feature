@@ -25,7 +25,8 @@ Scenario Outline: Create new email content template
 		#Denis
 		#Babur
 		#Solanyi
-		#Ehsan
+		#Ehsan 
+		#abc
 		
 		#This line is important, we need this...
 		
