@@ -15,10 +15,4 @@ Scenario: Create new form
 	Then User saves the form 
 	
 	
-
-
-	#this is importent
-	
-	#Fahim Ahmad Noor
-	
 	
