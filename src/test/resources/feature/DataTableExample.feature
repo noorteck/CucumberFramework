@@ -13,6 +13,7 @@ Scenario: Create new form
 		|John | new Student       | Bfas 2        |
 		
 	Then User saves the form 
+	And User closes the browser
 	
 	
 
