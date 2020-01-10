@@ -13,6 +13,14 @@ Scenario: Create new form
 		|John | new Student       | Bfas 2        |
 		
 	Then User saves the form 
+	And User closes the browser
 	
 	
+<<<<<<< HEAD
+=======
+
+
+	#this is important
+#	
+>>>>>>> branch 'master' of https://github.com/noorteck/CucumberFramework.git
 	

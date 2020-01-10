@@ -19,17 +19,5 @@ Scenario Outline: Create new email content template
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|			
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|			
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|	
-		|Stash		| Stash 		| Stash example 			|	
-		|John		| Stash example | it will disapear			|
-		
-		#Denis
-		#Babur
-		#Solanyi
-		#Ehsan 
-		#abc
-		
-		#This line is important, we need this...
-		
-		#This time it will fail 
-		# you will not be able to pull the code
+
 	
