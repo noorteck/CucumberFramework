@@ -33,3 +33,10 @@ Scenario Outline: Create new email content template
 		#This time it will fail 
 		# you will not be able to pull the code
 	
+		|Stash		| Stash 		| Stash example 			|	
+		|Zabih		| Stash 		| Stash example too 		|
+		|Zabih		| Stash 		| Stash example too 		|
+		|Hakim		| Stash 		| Stash example three 		|
+		
+		
+		#this is a comment that was asked by teacher about it 
