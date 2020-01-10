@@ -26,4 +26,9 @@ Scenario Outline: Create new email content template
 		#Babur
 		#Solanyi
 		#Ehsan
+		
+		#This line is important, we need this...
+		
+		#This time it will fail 
+		# you will not be able to pull the code
 	
