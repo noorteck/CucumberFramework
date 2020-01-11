@@ -20,4 +20,7 @@ Scenario Outline: Create new email content template
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|			
 		|Rajesh		| Batch 2		| Start date FEb 22, 2020	|	
 
-	
+#	manish
+# morali
+# sunny 
+# sasha
