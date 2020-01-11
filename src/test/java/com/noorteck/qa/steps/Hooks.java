@@ -16,6 +16,10 @@ public class Hooks extends BaseClass {
 		setUp();
 		System.out.println("Test Environment Set up");
 		System.out.println("Executing Scenario: [" + scenario.getName() + " ]");
+		System.out.println("Abc");
+		System.out.println("Abc");
+		System.out.println("Abc");
+		System.out.println("Abc");
 	}
 
 	@After
