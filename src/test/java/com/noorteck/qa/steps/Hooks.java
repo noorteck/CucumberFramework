@@ -24,12 +24,12 @@ public class Hooks extends BaseClass {
 		tearDown();
 	}
 
-	@Given("^User is logged in and in CRM Home page$")
-	public void login() {
-		loginObj.enterEmail(prop.getProperty("username"));
-		loginObj.enterPassword(prop.getProperty("password"));
-		loginObj.clickLogin();
-
-	}
+//	@Given("^User is logged in and in CRM Home page$")
+//	public void login() {
+//		loginObj.enterEmail(prop.getProperty("username"));
+//		loginObj.enterPassword(prop.getProperty("password"));
+//		loginObj.clickLogin();
+//
+//	}
 
 }
